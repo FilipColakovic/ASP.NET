@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Tests\\Vjezba.Tests.csproj": {}
+    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Tests\\Vjezba.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Model\\Vjezba.Model.csproj": {
+    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Model\\Vjezba.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Model\\Vjezba.Model.csproj",
+        "projectUniqueName": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Model\\Vjezba.Model.csproj",
         "projectName": "Vjezba.Model",
-        "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Model\\Vjezba.Model.csproj",
+        "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Model\\Vjezba.Model.csproj",
         "packagesPath": "C:\\Users\\fcolakovi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Model\\obj\\",
+        "outputPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Tests\\Vjezba.Tests.csproj": {
+    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Tests\\Vjezba.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Tests\\Vjezba.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Tests\\Vjezba.Tests.csproj",
         "projectName": "Vjezba.Tests",
-        "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Tests\\Vjezba.Tests.csproj",
+        "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Tests\\Vjezba.Tests.csproj",
         "packagesPath": "C:\\Users\\fcolakovi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Tests\\obj\\",
+        "outputPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Model\\Vjezba.Model.csproj": {
-                "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\Vjezba.Model\\Vjezba.Model.csproj"
+              "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Model\\Vjezba.Model.csproj": {
+                "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\Vjezba.Model\\Vjezba.Model.csproj"
               }
             }
           }

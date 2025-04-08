@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\AsyncMetode\\AsyncMetode.csproj": {}
+    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\AsyncMetode\\AsyncMetode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\AsyncMetode\\AsyncMetode.csproj": {
+    "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\AsyncMetode\\AsyncMetode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\AsyncMetode\\AsyncMetode.csproj",
+        "projectUniqueName": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\AsyncMetode\\AsyncMetode.csproj",
         "projectName": "AsyncMetode",
-        "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\AsyncMetode\\AsyncMetode.csproj",
+        "projectPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\AsyncMetode\\AsyncMetode.csproj",
         "packagesPath": "C:\\Users\\fcolakovi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\mvc-2024-25\\AsyncMetode\\obj\\",
+        "outputPath": "C:\\Users\\fcolakovi\\Documents\\TVZ\\ASP.NET\\24_25\\Vjezbe\\ASP.NET\\Vjezba_1\\AsyncMetode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
